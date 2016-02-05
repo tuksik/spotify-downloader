@@ -1,0 +1,16 @@
+{
+  "name": "spotify-playlist-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "ffmetadata": "*",
+    "request": "*",
+    "spotify-data": "*",
+    "spotify-playlist": "*",
+    "youtube-mp3-downloader": "*",
+    "youtube-search": "*"
+  },
+  "author": "Andrew Ke",
+  "license": "ISC"
+}
