@@ -1,8 +1,8 @@
 {
-  "name": "spotify-playlist-downloader",
+  "name": "spotify-downloader",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "dependencies": {
     "ffmetadata": "*",
     "request": "*",
@@ -11,6 +11,26 @@
     "youtube-mp3-downloader": "*",
     "youtube-search": "*"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewKe/spotify-downloader.git"
+  },
+  "keywords": [
+    "spotify",
+    "download",
+    "youtube",
+    "mp3",
+    "albums",
+    "music",
+    "videos",
+    "playlist",
+    "track",
+    "artist"
+  ],
   "author": "Andrew Ke",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewKe/spotify-downloader/issues"
+  },
+  "homepage": "https://github.com/AndrewKe/spotify-downloader#readme"
 }
